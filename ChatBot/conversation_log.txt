@@ -1,0 +1,99 @@
+[2026-04-04 23:31:41] User: hi
+[2026-04-04 23:31:41] Bot: Hello!
+
+[2026-04-04 23:31:46] User: how are you
+[2026-04-04 23:31:46] Bot: I am fine, how about you?
+
+[2026-04-04 23:31:56] User: im good
+[2026-04-04 23:31:56] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:32:10] User: i'm good
+[2026-04-04 23:32:10] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:32:15] User: fuck
+[2026-04-04 23:32:15] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:33:48] User: hello
+[2026-04-04 23:33:48] Bot: Hello!
+
+[2026-04-04 23:33:59] User: who
+[2026-04-04 23:33:59] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:34:07] User: ok
+[2026-04-04 23:34:07] Bot: O, or o, is the fifteenth letter and the fourth vowel letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is o (pronounced  ), plural oes.
+
+[2026-04-04 23:34:21] User: what the fuck
+[2026-04-04 23:34:21] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:39:48] User: hi
+[2026-04-04 23:39:48] Bot: Hello!
+
+[2026-04-04 23:39:55] User: how are you
+[2026-04-04 23:39:55] Bot: I am fine, how about you?
+
+[2026-04-04 23:40:07] User: good
+[2026-04-04 23:40:07] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:58:39] User: hi
+[2026-04-04 23:58:39] Bot: Hi there!
+
+[2026-04-04 23:58:43] User: how are you
+[2026-04-04 23:58:43] Bot: All good here!
+
+[2026-04-04 23:58:49] User: good
+[2026-04-04 23:58:49] Bot: Goodbye!
+
+[2026-04-04 23:58:52] User: why
+[2026-04-04 23:58:52] Bot: Hey! How can I help you today?
+
+[2026-04-04 23:59:04] User: i want to ask something
+[2026-04-04 23:59:04] Bot: Hey! How can I help you today?
+
+[2026-04-04 23:59:10] User: fuck
+[2026-04-04 23:59:10] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-04 23:59:22] User: ok
+[2026-04-04 23:59:22] Bot: O, or o, is the fifteenth letter and the fourth vowel letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is o (pronounced  ), plural oes.
+
+[2026-04-04 23:59:27] User: take care
+[2026-04-04 23:59:27] Bot: Take Care is the second studio album by the Canadian rapper Drake. It was released on November 15, 2011, by Young Money Entertainment, Cash Money Records and Republic Records.
+
+[2026-04-05 14:46:15] User: hi
+[2026-04-05 14:46:15] Bot: Hello!
+
+[2026-04-05 14:46:20] User: how are you
+[2026-04-05 14:46:20] Bot: I am fine, how about you?
+
+[2026-04-05 14:46:24] User: what to do
+[2026-04-05 14:46:24] Bot: I can answer questions about AI, machine learning, programming, or almost any topic using Wikipedia!
+
+[2026-04-05 14:46:52] User: python
+[2026-04-05 14:46:52] Bot: Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+
+[2026-04-05 14:47:00] User: AI?
+[2026-04-05 14:47:00] Bot: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+[2026-04-05 14:48:28] User: hi
+[2026-04-05 14:48:28] Bot: Hi there!
+
+[2026-04-05 14:48:33] User: how are you
+[2026-04-05 14:48:33] Bot: I am fine, how about you?
+
+[2026-04-05 14:48:48] User: What is AI?
+[2026-04-05 14:48:48] Bot: AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.
+
+[2026-04-05 14:48:49] User: fine
+[2026-04-05 14:48:49] Bot: Sorry, I couldn't find an answer. Can you rephrase?
+
+[2026-04-05 14:49:17] User: What is Chatgpt
+[2026-04-05 14:49:17] Bot: AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.
+
+[2026-04-05 14:49:34] User: chat gpt?
+[2026-04-05 14:49:34] Bot: ChatGPT is a generative artificial intelligence chatbot developed by OpenAI. It was released in November 2022. It uses large language models—specifically generative pre-trained transformers (GPTs)—to generate text, speech, and images in response to user prompts.
+
+[2026-04-05 14:55:13] User: hi
+[2026-04-05 14:55:13] Bot: Hi there!
+
+[2026-04-05 14:55:31] User: my name is ahsan
+[2026-04-05 14:55:31] Bot: Jaya Maswood (born 1 July), popularly known as Jaya Ahsan, is a Bangladeshi film actress, model, producer and playback singer. Starting her career as a model and, later, as a film actress, she works mostly in Bangladeshi and Indian Bengali films.
+

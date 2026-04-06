@@ -1,0 +1,6 @@
+[
+    {"question": "what is ai", "answer": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines."},
+    {"question": "what is machine learning", "answer": "Machine Learning is a subset of AI that allows machines to learn from data."},
+    {"question": "who is alan turing", "answer": "Alan Turing was a British mathematician and computer scientist, widely considered the father of modern computer science."},
+    {"question": "what is python", "answer": "Python is a popular high-level programming language known for its simplicity and versatility."}
+]

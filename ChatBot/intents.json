@@ -1,0 +1,111 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening", "assalamualaikum", "yo", "what's up"],
+      "responses": [
+        "Hello {name}! How are you today?",
+        "Hi {name}! Nice to see you!",
+        "Hey {name}! How's it going?"
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": ["bye", "goodbye", "see you", "farewell", "exit", "quit", "see you later", "catch you later"],
+      "responses": [
+        "Goodbye {name}! Take care.",
+        "See you later {name}!",
+        "Bye {name}! Have a great day!",
+        "Allah Hafiz!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "thx", "appreciate it", "much appreciated"],
+      "responses": [
+        "You're welcome {name}!",
+        "No problem {name}!",
+        "Glad I could help, {name}!"
+      ]
+    },
+    {
+      "tag": "love",
+      "patterns": ["i love you", "love you", "you are amazing", "i like you", "do you love me", "are you my friend", "care about me"],
+      "responses": [
+        "Aww {name}, I love you too ❤️",
+        "You're awesome, {name}! 😎",
+        "Of course {name}, I care about you 💖"
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": ["who are you", "what are you", "your name"],
+      "responses": [
+        "I am your AI chatbot assistant {name}!",
+        "You can call me AI Assistant."
+      ]
+    },
+    {
+      "tag": "creator",
+      "patterns": ["who made you", "who created you", "your developer"],
+      "responses": [
+        "I was created by a talented developer Ahsan Hussain 😎"
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": ["joke", "tell me a joke", "make me laugh", "funny", "laugh"],
+      "responses": [
+        "Why do programmers hate nature? Too many bugs 😂",
+        "Why did the computer get cold? It forgot to close windows 😆",
+        "I would tell you a UDP joke, but you might not get it! 😂",
+        "Why did {name} bring a ladder to class? To go to high school! 😜"
+      ]
+    },
+    {
+      "tag": "mood",
+      "patterns": ["how are you", "how's it going", "what's up", "how do you feel"],
+      "responses": [
+        "I'm great {name}! How about you?",
+        "Doing fantastic {name}! How are you feeling today?",
+        "All good {name}! What about you?"
+      ]
+    },
+    {
+      "tag": "hobbies",
+      "patterns": ["what do you do", "your hobbies", "your interests", "what are you interested in"],
+      "responses": [
+        "I love chatting with you, {name}!",
+        "Learning new things is my hobby!",
+        "Exploring data and helping humans like you, {name}, is my favorite thing!"
+      ]
+    },
+    {
+      "tag": "knowledge",
+      "patterns": ["what is ai", "machine learning", "deep learning", "programming", "python", "java"],
+      "responses": [
+        "AI stands for Artificial Intelligence.",
+        "Machine learning is a subset of AI where machines learn from data.",
+        "Python is a versatile programming language.",
+        "Java is widely used for building enterprise applications."
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["weather", "temperature", "is it hot today", "forecast", "rainy", "sunny"],
+      "responses": [
+        "I can check weather if connected to API!",
+        "Weather depends on your city, {name}."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": ["*"],
+      "responses": [
+        "Sorry {name}, I cannot answer that yet.",
+        "Hmm, I am not sure about that, {name}.",
+        "Can you ask something else, {name}?"
+      ]
+    }
+  ]
+}
